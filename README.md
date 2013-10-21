@@ -23,8 +23,6 @@ How to use the Alfred 2 workflow
 - Type `solo+` if your hero has an advantage, or `solo-` if they're disadvantaged. See the link above to see what that means.
 - Hold down `option` when you hit return to paste the results, rather than displaying them.
 
-The `Solo RPG roller` directory is just the workflow unpacked, in case you want to peek. (You can also just change the extension of the `.workflow` file to `.zip` and get at it that way.)
-
 
 Credits
 -------------
