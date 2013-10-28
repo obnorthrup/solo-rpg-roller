@@ -14,7 +14,7 @@ This workflow implements the simple solo rpg system [featured on the Tiny Solita
 How to use the script
 ---------------------
 
-Call `solo-rpg.py` to roll the dice as per the link above and print the results. You can give the script an option argument of `+` or `-` to specify advantage or disadvantage.
+Call `solo-rpg.py` to roll the dice as per the link above and print the results. You can pass the script an optional argument of `+` or `-` to specify advantage or disadvantage.
 
 How to use the Alfred 2 workflow
 --------------------------------
